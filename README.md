@@ -4,7 +4,7 @@ Health Data Analysis &amp; Prediction – Includes full data cleaning, EDA, feat
 ## Overview 
 This project explores a real-world health dataset, uncovering **patterns, risk factors, and lifestyle impacts** on health, and applying **machine learning models** to predict outcomes.  
 The project also features an **interactive Power BI dashboard** to visualize insights and findings.
----
+
 
 ## Project Structure
 
